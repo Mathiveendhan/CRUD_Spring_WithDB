@@ -8,6 +8,6 @@ class SpringWithDbWorkApplicationTests {
 
 	@Test
 	void contextLoads() {
-	}
+	 }
 
 }

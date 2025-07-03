@@ -12,7 +12,7 @@ public class StudentData {
 
     @Id
     @GeneratedValue(strategy=GenerationType.IDENTITY)
-    //mysql doesn't allow sequence,so ,identity is best to use,meanwhile,PostgresSQL familiar with`h sequence
+    //mysql doesn't allow sequence,so ,identity is best to use,meanwhile,PostgresSQL familiar with sequence
     private long id;
 
 
